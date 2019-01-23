@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # RAID SETUP FOR HOMOGOBLIN
 # PK
