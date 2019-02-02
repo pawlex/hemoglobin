@@ -1,5 +1,5 @@
 /		-- root filesystem.
-/root -- root users home directory
+/root   -- root users home directory
 bin		-- binaries
 boot		-- boot filed
 dev		-- special system hardware devices
