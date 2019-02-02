@@ -1,0 +1,21 @@
+/		-- root filesystem.
+bin		-- binaries
+boot		-- boot filed
+dev		-- special system hardware devices
+etc		-- os config files
+home		-- user home directories
+lib		-- libraries 
+lib64		-- 64-bit libraries
+lost+found	-- don't worry about it.  all filesystems have this
+media		-- soft mounts used by udev and automount.
+mnt		-- hard mounts defined by system admin
+opt		-- optional packages
+proc		-- legacy unix system files (/proc/mdstat)
+root		-- root user home directory
+sbin		-- superuser binaries
+selinux		-- selinux crap, disable selinux
+srv		-- legacy 
+sys		-- linux kernel special nodes
+tmp		-- temporary, contents get removed very reboot
+usr		-- usr/bin, usr/local/bin -- things that aren't directly installed by OS or distribution.  It's complicated.
+var		-- variable data, such as server files /var/www, sockets, databases, pid tracking etc.
